@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Spark - Minha solução para o Alura Challenge
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido através do Alura Challenge Data Science - 2ª Edição 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Ruanalise**
+| :label: Tecnologias | Python (Spark)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
